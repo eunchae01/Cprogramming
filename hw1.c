@@ -14,3 +14,5 @@ int main(void)
 
     return 0;
 }
+
+//컨트롤 알트 c -> 컨트롤 알트 r
